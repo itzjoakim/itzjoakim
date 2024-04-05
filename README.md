@@ -18,7 +18,7 @@ I'm a passionate 16-year-old coder with a love for creating software solutions t
 
 #### Blow me up
 
-- Instagram : https://www.instagram.com/codin.gram/
+- Instagram : https://www.instagram.com/itz.jchm?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 
 Feel free to explore my repositories, and let's connect and collaborate on projects that can make a meaningful impact!
 
