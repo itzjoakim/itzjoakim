@@ -1,6 +1,6 @@
 # Hi there, I'm Joachim Paluk! 👋
 
-I'm a passionate 16-year-old coder with a love for creating software solutions that tackle real-world problems. My goal is to contribute to positive change and enhance daily life experiences through technology.
+I'm a passionate 17-year-old coder with a love for creating software solutions that tackle real-world problems. My goal is to contribute to positive change and enhance daily life experiences through technology.
 
 ## About Me
 
